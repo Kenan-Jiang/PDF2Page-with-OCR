@@ -3,7 +3,7 @@ This repo contains a colab notebook that parses pdfs in google drive into text f
 ## How to use it
  1. Have a folder of PDFs that you want to run OCR on in your google drive.
  2. Save this main.ipynb colab notebook in your google drive. 
- 3. Open the main.ipynb and change the first cell accordingly:
+ 3. Open the main.ipynb and change the first cell accordingly:<br />
     a. Input folder’s [google id](https://ploi.io/documentation/mysql/where-do-i-get-google-drive-folder-id)<br />
     b. Input folder’s directory<br />
     c. Output folder’s directory (which you name)
