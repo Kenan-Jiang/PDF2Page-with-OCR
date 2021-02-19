@@ -23,4 +23,5 @@ In your output folder, you will find the following:
 Adam Anderson, Jason Webb, Kenan Jiang, Kevin Gao, Kewei Chen, Max Ziff, Serena Zhang, Shuyao Zhou
 ### Contact
 Adam Anderson: admndrsn@berkeley.edu<br />
-Kenan Jiang: kenanj11@berkeley.edu
+Kenan Jiang: kenanj11@berkeley.edu<br />
+Kevin Gao: kevingao26@berkeley.edu
