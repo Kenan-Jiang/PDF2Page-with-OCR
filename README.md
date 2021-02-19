@@ -2,7 +2,7 @@
 This repo contains a colab notebook that parses pdfs in google drive into text files for further analysis
 ## Basic Overview
 If you have a lot of PDFs scanned in your google drive and you cannot do NLP analysis on it, you are in the RIGHT place!!!<br />
-Our project parser and organize your text for you, all you need is to put your PDFs in a common folder.
+Our project parses and organizes your text for you; all you need to do is to put your PDFs in a common folder.
 ## How to use it
  1. Have a folder of PDFs that you want to run OCR on in your google drive. (ex. PDFs) 
  ![alt text](https://github.com/Kenan-Jiang/colab_pdf_parser/blob/main/input.jpg)
@@ -17,7 +17,7 @@ In your output folder, you will find the following:
   1. A folder for each pdf documents you want to parse, the folder name is the google id of the original pdf.
   ![alt text](https://github.com/Kenan-Jiang/colab_pdf_parser/blob/main/output.jpg)
   2. Inside each folder, you will find each page as a picture.
-  3. Inside each folder, you will find a csv file. It will have page number mapped to the ocr results for each page.
+  3. Inside each folder, you will find a page.csv file. It will have page number mapped to the ocr results for each page.
   ![alt text](https://github.com/Kenan-Jiang/colab_pdf_parser/blob/main/output2.jpg)
 ## Contributors (in alphabetical order)
 Adam Anderson, Jason Webb, Kenan Jiang, Kevin Gao, Kewei Chen, Max Ziff, Serena Zhang, Shuyao Zhou
