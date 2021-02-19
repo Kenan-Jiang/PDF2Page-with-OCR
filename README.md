@@ -1,4 +1,4 @@
-# colab_pdf_parser
+# google drive PDF2Page with OCR
 This repo contains a colab notebook that parses pdfs in google drive into text files for further analysis
 ## Basic Overview
 If you have a lot of PDFs scanned in your google drive and you cannot do NLP analysis on it, you are in the RIGHT place!!!<br />
