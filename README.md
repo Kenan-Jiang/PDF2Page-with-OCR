@@ -8,6 +8,7 @@ Our project parser and organize your text for you, all you need is to put your P
  2. Save this main.ipynb colab notebook in your google drive. 
  3. Open the main.ipynb and change the first cell accordingly:<br />
     a. Input folder’s [google id](https://ploi.io/documentation/mysql/where-do-i-get-google-drive-folder-id)<br />
+    ![alt text](https://github.com/Kenan-Jiang/colab_pdf_parser/blob/main/input.jpg)
     b. Input folder’s directory<br />
     c. Output folder’s directory (which you name)
  4. Run the entire notebook. When finished, you can find all results in the output folder.
