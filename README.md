@@ -6,8 +6,8 @@ Our project parses and organizes your text for you; all you need to do is to put
 ## How to use it
  1. Have a folder of PDFs that you want to run OCR on in your google drive. (ex. PDFs) 
  ![alt text](https://github.com/Kenan-Jiang/colab_pdf_parser/blob/main/input.jpg)
- 2. Save this main.ipynb colab notebook anywhere in your google drive. 
- 3. Open the main.ipynb and change the first cell accordingly:<br />
+ 2. Save this PDF2Page.ipynb colab notebook anywhere in your google drive. 
+ 3. Open the PDF2Page.ipynb and change the first cell accordingly:<br />
     a. Input folder’s [google id](https://ploi.io/documentation/mysql/where-do-i-get-google-drive-folder-id)<br />
     b. Input folder’s directory<br />
     c. Output folder’s directory (which you name)
