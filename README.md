@@ -1,3 +1,5 @@
+# Note:
+We are working on a more efficient and powerful OCR pipeline. Please stay tuned. 
 # google drive PDF2Page with OCR
 This repo contains a colab notebook that parses pdfs in google drive into text files for further analysis
 ## Basic Overview
